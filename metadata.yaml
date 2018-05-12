@@ -1,4 +1,8 @@
 _repo: The-English-Rogue-Continued-in-the-Life-of-Meriton-Latroon-and-Other-Extravagants-The-Second-__50949
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50949-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Head, Richard
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45887'
     url: http://www.gutenberg.org/2009/agents/45887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50949#The-English-Rogue-Continued-in-the-Life-of-Meriton-Latroon-and-Other-Extravagants-The-Second-_
 gutenberg_issued: '2016-01-17'
 gutenberg_type: Text
 identifiers:
